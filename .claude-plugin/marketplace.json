@@ -1,0 +1,14 @@
+{
+  "name": "website-design",
+  "owner": { "name": "KW-0220" },
+  "metadata": { "description": "The website-design skill for Claude Code" },
+  "plugins": [
+    {
+      "name": "website-design",
+      "source": "./",
+      "description": "One entry point for website design: 84 bundled DESIGN.md design systems plus a workflow that routes through taste-skill, ui-ux-pro-max, impeccable, Playwright and img2threejs.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}

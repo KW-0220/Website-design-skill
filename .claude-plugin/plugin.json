@@ -1,0 +1,9 @@
+{
+  "name": "website-design",
+  "description": "One entry point for website design: 84 bundled DESIGN.md design systems plus a workflow that routes through taste-skill, ui-ux-pro-max, impeccable, Playwright and img2threejs.",
+  "version": "1.0.0",
+  "author": { "name": "KW-0220" },
+  "repository": "https://github.com/KW-0220/website-design-skill",
+  "license": "MIT",
+  "keywords": ["design", "website", "ui", "design-md", "frontend"]
+}
